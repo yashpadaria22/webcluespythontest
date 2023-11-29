@@ -1,0 +1,5 @@
+2023-11-29 16:09:55.305999 - Exception in function 'example_function': An example error occurred.
+2023-11-29 16:12:04.045275 - Exception in function 'example_function': An example error occurred.
+2023-11-29 16:13:36.815324 - Function 'example_function' executed in 2.000768 seconds.
+2023-11-29 16:14:36.581054 - Function 'example_function' executed in 2.001291 seconds.
+2023-11-29 16:16:02.961101 - Function 'example_function' executed in 0.002477 seconds.
